@@ -6,7 +6,7 @@ This work is 3D lidar based Simultaneous Localization And Mapping (SLAM), includ
 
 **Author:** [Wang Han](http://wanghan.pro), Nanyang Technological University, Singapore
 
-For front-end only odometry, you may visit [FLOAM (fast lidar odometry and mapping)](https://github.com/wh200720041/floam)
+For front-end only odometry, you may visit [FLOAM (fast lidar odometry and mapping)](https://github.com/whu-lyh/floam)
 ## 1. Evaluation
 ### 1.1. Demo
 Watch our demo at [Video Link](https://youtu.be/Kfi6CFK4Ke4)
@@ -76,7 +76,7 @@ Alternatively, you may remove the hector trajectory server node if trajectory vi
 ### 3.1 Clone repository:
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/wh200720041/iscloam.git
+git clone https://github.com/whu-lyh/iscloam.git
 cd ..
 catkin_make -j1
 source ~/catkin_ws/devel/setup.bash
